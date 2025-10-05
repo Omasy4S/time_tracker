@@ -1,0 +1,87 @@
+{
+  "@@locale": "en",
+  "appTitle": "Time Tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "startTimer": "Start Timer",
+  "@startTimer": {
+    "description": "Start timer button text"
+  },
+  "stopTimer": "Stop Timer",
+  "@stopTimer": {
+    "description": "Stop timer button text"
+  },
+  "taskName": "Task Name",
+  "@taskName": {
+    "description": "Task name field label"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description field label"
+  },
+  "duration": "Duration",
+  "@duration": {
+    "description": "Duration label"
+  },
+  "today": "Today",
+  "@today": {
+    "description": "Today label"
+  },
+  "thisWeek": "This Week",
+  "@thisWeek": {
+    "description": "This week label"
+  },
+  "thisMonth": "This Month",
+  "@thisMonth": {
+    "description": "This month label"
+  },
+  "totalTime": "Total Time",
+  "@totalTime": {
+    "description": "Total time label"
+  },
+  "activeTask": "Active Task",
+  "@activeTask": {
+    "description": "Active task label"
+  },
+  "recentTasks": "Recent Tasks",
+  "@recentTasks": {
+    "description": "Recent tasks label"
+  },
+  "noActiveTasks": "No active tasks",
+  "@noActiveTasks": {
+    "description": "No active tasks message"
+  },
+  "hours": "hours",
+  "@hours": {
+    "description": "Hours unit"
+  },
+  "minutes": "minutes",
+  "@minutes": {
+    "description": "Minutes unit"
+  },
+  "hoursShort": "h",
+  "@hoursShort": {
+    "description": "Hours unit short"
+  },
+  "minutesShort": "m",
+  "@minutesShort": {
+    "description": "Minutes unit short"
+  }
+}
