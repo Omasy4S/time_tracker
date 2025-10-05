@@ -1,4 +1,4 @@
-# Flutter Full-Stack Test Task - Time Tracker
+# Flutter Full-Stack Time Tracker
 
 Приложение для учета рабочего времени с чистой архитектурой, построенное на Flutter и Express.js.
 
